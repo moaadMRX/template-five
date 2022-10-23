@@ -1463,7 +1463,7 @@ header .container .links i{
     z-index: -1;
 }
 .work .container .last p:hover::before{
-    box-shadow: 0 0 0 800px var(--main-color);
+    box-shadow: 0 0 0 1640px var(--main-color);
   
 }
 .work .container .last p:hover{
